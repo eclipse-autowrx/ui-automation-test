@@ -1,7 +1,7 @@
 {
     "web_url": "https://autowrx.digital.auto/",
     "email_url": "https://backend-core-dev.digital.auto/v2/emails",
-    "test_file": "test_no_data.py",
+    "test_image_path": "C:\\Users\\VUY4HC\\Desktop\\WorkCode\\automation-test-digital-auto\\testing_image.jpg",
     "developer_email": "vuy4hc@bosch.com",
     "signIn_email": "vuy4hc@bosch.com",
     "wrong_password": "31280129850",
